@@ -10,5 +10,5 @@
 # visual studio
 
 .vs
-.bin
-.obj
+bin
+obj
